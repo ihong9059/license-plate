@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# Debug images
+*.jpg
+!camera_guide.md
+
+# Results
+results.txt
+
+# IDE
+.vscode/
+.idea/
